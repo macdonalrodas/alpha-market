@@ -38,7 +38,7 @@ Alpha Market es una plataforma de e-commerce diseñada bajo una **arquitectura m
 
 ## DEMO EN VIVO
 
- **[Abrir Alpha Market](https://TU_USUARIO.github.io/alpha-market/)**
+ **[Abrir Alpha Market](https://macdonalrodas.github.io/alpha-market/)**
 
 
 ## TECNOLOGÍAS UTILIZADAS
